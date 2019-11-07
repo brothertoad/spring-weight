@@ -1,6 +1,6 @@
 # Weight REST service
 
-This is a simple REST service that using Spring Boot.  I created it to keep track
+This is a simple REST service that uses Spring Boot.  I created it to keep track
 of my weight.  I weigh myself each day, and have a web page on my local intranet
 that invokes this REST service to store the value.  The REST service also keeps
 track of monthly and yearly averages.  The data is stored in a Postgresql database.
